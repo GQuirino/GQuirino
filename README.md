@@ -1,4 +1,10 @@
-## Hi there 👋
+Ruby on Rails | NodeJS | Relational Databases | Docker | React
+<div>
+
+![GQuirino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GQuirino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
 
 <!--
 **GQuirino/GQuirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
